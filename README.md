@@ -15,7 +15,7 @@ Help users filter food options by price or restaurant, so they can easily order 
 ## Wireframe
 
 ### HOME SCREEN
-![HOMESREEN] https://github.com/S-Robina/food-ordering-app-ux/blob/main/FastFood_home.png
+![Home Screen](FastFood_home.png)
 
 ### Category Screen
 ![Category Screen](FastFood_Categorydetails.png)
